@@ -137,5 +137,5 @@ axs[1,1].set_ylabel("y axis")
 #axs[1,1].grid(axis='', color='', linestyle='')
 
 
-plt.savefig("/Users/j.alcaide/Documents/MCG/pyplots.png")
+plt.savefig("./pyplots.png")
 plt.show()
